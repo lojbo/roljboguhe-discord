@@ -6,7 +6,7 @@ A fun and friendly place to learn and converse in Lojban, the logical language.
 
 ### Discord server logs.
 
-The best way to view the logs is via the integrated [https://lojbo.github.io/roljboguhe-discord/](reader app). It renders everything as closely to Discord as possible and supports search.
+The best way to view the logs is via the integrated [reader app](https://lojbo.github.io/roljboguhe-discord/). It renders everything as closely to Discord as possible and supports search.
 
 Raw Discord events and associated metadata are logged as JSONL on the [`archive` branch](https://github.com/lojbo/roljboguhe-discord/tree/archive). This branch is only ever appended to, so commits can be referenced.
 
