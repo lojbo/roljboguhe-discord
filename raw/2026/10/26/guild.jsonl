@@ -3,3 +3,4 @@
 {"at":"2026-10-26T09:03:49.756Z","src":"rejgau","t":"SESSION_RESUMED","d":{"session_id":"a3312fa12455e063"}}
 {"at":"2026-10-26T11:45:25.158Z","src":"rejgau","t":"SESSION_RESUMED","d":{"session_id":"a3312fa12455e063"}}
 {"at":"2026-10-26T13:56:20.783Z","src":"rejgau","t":"SESSION_RESUMED","d":{"session_id":"a3312fa12455e063"}}
+{"at":"2026-10-26T17:12:45.862Z","src":"rejgau","t":"MEDIA_STORED","d":{"key":"avatar-1249628520494137356-2b57ded6c151a7cfe49e6b52f80ae244.png","release":"media-2026-10","name":"avatar-1249628520494137356-2b57ded6c151a7cfe49e6b52f80ae244.png","url":"https://github.com/lojbo/roljboguhe-discord/releases/download/media-2026-10/avatar-1249628520494137356-2b57ded6c151a7cfe49e6b52f80ae244.png","size":30093,"content_type":"image/png"}}
